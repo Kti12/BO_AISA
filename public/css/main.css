@@ -1,0 +1,15 @@
+.nav, .mere{
+    background-color: rgb(10, 78, 252);
+}
+.nav a{
+    color: aliceblue;
+    font-size: 1em;
+}
+.titre{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 2em;
+}
+.deconnexion{
+    color: black;
+}
